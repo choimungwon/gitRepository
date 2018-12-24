@@ -27,7 +27,7 @@ public class PrimitiveType {
 		
 //		char
 		
-		char ch = 97;
+		char ch = 9;
 	
 //		 하나의 문자만 저장할 수 있다 \
 		
